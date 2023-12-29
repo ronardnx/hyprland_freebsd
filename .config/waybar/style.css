@@ -20,7 +20,9 @@
   padding: 3px;
 }
 #tray {
-border: 2px solid #9999CC
+border: 2px solid #9999CC;
+padding-left: 5px;
+padding-right: 5px
 }
 #custom-arch,
 #window {
