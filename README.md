@@ -1,6 +1,7 @@
 My dots for Hyprland on FreeBSD
 
-![image](https://github.com/ronardnx/hyprland_freebsd/assets/23416091/d75f1fee-963a-4237-9cc1-3c13f332ad3a)
+![image](https://github.com/ronardnx/hyprland_freebsd/assets/23416091/285981d8-65d8-4a9e-b75c-9b8633e69306)
+
 
 
 **changelog**:
